@@ -1,6 +1,6 @@
 # gulp-count-stat
 
-[![Build Status](https://travis-ci.org/io-monad/gulp-count-stat.svg?branch=master)](https://travis-ci.org/io-monad/gulp-count-stat)
+[![wercker status](https://app.wercker.com/status/53a9c105b412cadc20258c33c3411010/s/master "wercker status")](https://app.wercker.com/project/bykey/53a9c105b412cadc20258c33c3411010)
 
 gulp plugin to show countings on words or characters of files
 

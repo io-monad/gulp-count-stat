@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "format-number": "^2.0.1",
-    "gulp-util": "^3.0.7",
+    "gulp-util": "^3.0.8",
     "through2": "^2.0.1",
     "word-count": "^0.2.2"
   }
